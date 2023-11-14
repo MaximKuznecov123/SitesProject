@@ -1,0 +1,14 @@
+body{
+    /*background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663149805_7-mykaleidoscope-ru-p-yarkie-emotsii-vkontakte-10.jpg);*/
+    background-size: 100%;
+    background-repeat: no-repeat;
+    scroll-behavior: smooth;
+}
+
+#navbar{
+    list-style-type: none;
+    margin: 0;
+  }
+ul#navbar li{
+   display: inline;
+}
